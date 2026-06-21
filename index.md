@@ -7,5 +7,5 @@ timestamp: 2026-06-21T12:26:37+00:00
 
 # Programming languages
 
-- [Haskell](./learning/index.md) - Haskell language resource
+- [Haskell](./haskell/index.md) - Haskell language resource
 - [AWK](./awk/index.md) - AWK language for string processing
